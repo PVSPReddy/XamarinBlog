@@ -1,6 +1,7 @@
 .indexPage
      {
-       height: 1123px;
+        height: 1093.15px;
+       /* height: 1123px; */
          /*height : 900px;*/
          width : 100%;
          padding: 0;
@@ -14,7 +15,8 @@
 }
 .indexHeader
 {
-    height : 10%;
+    height : 11.881%;
+    /* height : 10%; */
     width : 100%;
     background-color:#360045;
     padding: 0;
@@ -25,10 +27,46 @@
     /*display: inline;*/
 }
 
+.indexHeaderTitleBar
+{
+    height : 61.5%;
+    width : 100%;
+    background-color:#360045;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /*position: fixed;*/
+    /*z-index: 1;*/
+    /*display: inline;*/
+}
+.indexHeaderTitleBar div{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.indexHeaderMenuBar
+{
+    height : 38.5%;
+    width : 100%;
+    background-color:#2f068d;
+    padding: 0;
+    margin: 0;
+    float: left;
+    align-items: left;
+    text-align:left;
+    /*position: fixed;*/
+    /*z-index: 1;*/
+    /*display: inline;*/
+}
+
 .indexBody
 {
     /* height:1010.7px; */
-    height : 90%;
+    height : 88.119%;
+    /* height : 90%; */
     width : 100%;
     background-color: #366466;
     padding: 0;
@@ -41,7 +79,7 @@
 .indexBodyHeader
 {
     width:100%; 
-    height:6%; 
+    height:5.95%; 
     align-items:left; 
     text-align:left; 
     float:left;
@@ -50,7 +88,7 @@
 .indexBodyBody
 {
     /* height:970.272px; */
-    height : 94%;
+    height : 94.05%;
     width : 100%;
     background-color: #000066;
     padding: 0;
@@ -63,7 +101,7 @@
 .indexBodyBodyBody
 {
     /* height:842px; */
-    height : 87;
+    height : 92.93%;
     width : 100%;
     background-color: #4d0064;
     padding: 0;
@@ -75,7 +113,7 @@
 
 .indexBodyBodyFooter
 {
-    height : 13%;
+    height : 7.07%;
     width : 100%;
     background-color: #006400;
     padding: 0;
