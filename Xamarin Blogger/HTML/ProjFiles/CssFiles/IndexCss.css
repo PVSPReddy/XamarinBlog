@@ -1,0 +1,121 @@
+.indexPage
+     {
+       height: 1123px;
+         /*height : 900px;*/
+         width : 100%;
+         padding: 0;
+         margin: 0;
+     }
+.pgmain
+{
+    height : 600px;
+    width : 100%;
+    padding: 0;
+}
+.indexHeader
+{
+    height : 10%;
+    width : 100%;
+    background-color:#360045;
+    padding: 0;
+    margin: 0;
+    float: left;
+    /*position: fixed;*/
+    /*z-index: 1;*/
+    /*display: inline;*/
+}
+
+.indexBody
+{
+    /* height:1010.7px; */
+    height : 90%;
+    width : 100%;
+    background-color: #366466;
+    padding: 0;
+    margin: 0;
+    float: left;
+    /*display: inline;
+    float: right;*/
+}
+
+.indexBodyHeader
+{
+    width:100%; 
+    height:6%; 
+    align-items:left; 
+    text-align:left; 
+    float:left;
+}
+
+.indexBodyBody
+{
+    /* height:970.272px; */
+    height : 94%;
+    width : 100%;
+    background-color: #000066;
+    padding: 0;
+    margin: 0;
+    float: left;
+    /*display: inline;
+    float: right;*/
+}
+
+.indexBodyBodyBody
+{
+    /* height:842px; */
+    height : 87;
+    width : 100%;
+    background-color: #4d0064;
+    padding: 0;
+    margin: 0;
+    float: left;
+    /*display: inline;
+    float: right;*/
+}
+
+.indexBodyBodyFooter
+{
+    height : 13%;
+    width : 100%;
+    background-color: #006400;
+    padding: 0;
+    margin: 0;
+    float: left;
+    /*display: inline;
+    float: right;*/
+}
+.indexFooterScrollLayout
+{
+    height : 100%;
+    width : 100%;
+    background-color: #63095b;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: flex;
+    overflow-x: scroll;
+    /* display: inline-block;
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: auto; */
+    /* display: inline;
+    float: right;*/
+}
+/* .indexFooterScrollLayout
+{
+
+} */
+
+.frames
+{
+    border-width: 0px;
+   /*border-color: currentColor;*/
+}
+
+.indexImgHeader
+{
+  width: 100%;
+  height: 100%;
+  /*object-fit: fill;*/
+  /*object-fit: contain;*/
+}
